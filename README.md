@@ -5,3 +5,6 @@ In this repository, a number of test files are created to learn about git.
 
 ## TODOs
 1. Learn git terminology
+
+Adding some new lines
+hallo
